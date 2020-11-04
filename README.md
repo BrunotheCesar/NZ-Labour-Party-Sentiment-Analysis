@@ -23,3 +23,7 @@ For this project, I went through the last 100 tweets from the NZ Labour Party an
 # Count of negative, neutral, and positive tweets
 
 ![](images/sentiment_analysis.PNG)
+
+
+# Jupyter Notebook Viewer
+https://nbviewer.jupyter.org/github/LaraBruno/NZ-Labour-Party-Sentiment-Analysis/blob/main/Sentiment%20Analysis%20Study.ipynb
